@@ -1,0 +1,44 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    background-image: url("images/Color_Blue/bg_7.2.jpg");    
+}
+
+header {
+    width: 1024px;
+    margin-top: 90px;
+    text-align: center;
+    background-image: url("images/Color_Blue/bg_4.1.jpg");
+    border: solid rgb(62, 67, 75) 1px;
+    box-shadow: 0px 0px 50px -20px black;
+}
+
+.figure {
+    border: solid rgb(30, 20, 73) 2px;
+    box-shadow: 0px 0px 70px -50px black;
+}
+
+figcaption {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(32, 32, 32);
+}
+
+section {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color:rgb(32, 32, 32);
+}
+
+span {
+    font-weight: 600;
+}
+
+footer {
+    width: 1024px;  
+    margin-bottom: 90px;
+    font-weight: bold; 
+    text-align: center;
+}
